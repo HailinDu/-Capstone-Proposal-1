@@ -1,7 +1,7 @@
 # Capstone Proposal 1
 ## 1st Idea - Indeed or Glassdoor or Linkedin Job Market Analysis
 * The purpose of this idea is to bring insights for our cohort before graduation
-* We will either use APIs or web scrapping method to understand the recent job market trend
+* We will either use APIs or web scrapping method to understand the recent job market trend, including but not limited to position title, salarly, company, and location.
      * Hopefully, the period cover up to 5 years until today
 * Data Source
      * [Indeed API](https://opensource.indeedeng.io/api-documentation/) - Seems free and easy to connect
